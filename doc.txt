@@ -1,0 +1,35 @@
+header:-
+
+fave icon done.
+______________
+
+logo done
+_______________
+
+nav/manu:Overviews,Landings,Pages,Apps,Docs
+
+color combination:
+sky blue:#008aff
+nev blue:#0f2656
+red     :#f15767
+
+
+h1:It's time to amplify youronline business
+
+p:Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+
+3k+
+Excepteur sint occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Successfully completed projects & ideas
+
+h2: Unleash you creativity
+P: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+img color:
+pink:#feebed
+green:#eaf9f4
+yellow:#fff2d7
+
+
+© Copyright by LEDP SHERPUR. All right Reserved 2020
